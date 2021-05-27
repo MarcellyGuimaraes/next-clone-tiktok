@@ -48,8 +48,8 @@ export async function getServerSideProps(context) {
       description: "Vídeo teste para clone de interface",
       tags: [{ title: "#youtube" }, { title: "#clone" }],
       songName: "Tampa Curhat Beat - TampaCurhat",
-      videoUrl: (src =
-        "https://v16-web.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/a0bc4e55b14f4bfbb34b6f2b924138c5/?a=1988&br=1692&bt=846&cd=0%7C0%7C0&ch=0&cr=0&cs=0&dr=0&ds=2&er=&expire=1622164270&l=2021052719110101018907101528274B41&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=ajRndnZlZWlteTMzODczM0ApMzo5ZDNpOmRkN2c1PDgzNWdtbGRfazJlLmpfLS1hMTRzcy9jYjA1YGIuLi0xNjNhYF46Yw%3D%3D&signature=7a24dd89abf6ae5a4e43b732bbf38638&tk=tt_webid_v2&vl=&vr="),
+      videoUrl:
+        "https://v16-web-newkey.tiktokcdn.com/377f706b8664a2b3c68420b8740c311c/5f6cf201/video/tos/alisg/tos-alisg-pve-0037c001/9fb4d52876d340eda534984097fb7d1b/?a=1988&br=1726&bt=863&cr=0&cs=0&dr=0&ds=3&er=&l=202009241322340101890710710A01D2D5&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=ajpsM2g7Zm9ydzMzMzczM0ApZDQ4OGY5ZWQ5NzUzOTlnOGdyMjQ1X3FgYGlfLS0tMTRzc2FjYjUyXy8yMy5hMDUyMDY6Yw%3D%3D&vl=&vr=",
       likes: 650,
       comments: 10,
       replies: 50,
