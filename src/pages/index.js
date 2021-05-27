@@ -48,8 +48,7 @@ export async function getServerSideProps(context) {
       description: "Vídeo teste para clone de interface",
       tags: [{ title: "#youtube" }, { title: "#clone" }],
       songName: "Tampa Curhat Beat - TampaCurhat",
-      videoUrl:
-        "https://v16-web-newkey.tiktokcdn.com/377f706b8664a2b3c68420b8740c311c/5f6cf201/video/tos/alisg/tos-alisg-pve-0037c001/9fb4d52876d340eda534984097fb7d1b/?a=1988&br=1726&bt=863&cr=0&cs=0&dr=0&ds=3&er=&l=202009241322340101890710710A01D2D5&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=ajpsM2g7Zm9ydzMzMzczM0ApZDQ4OGY5ZWQ5NzUzOTlnOGdyMjQ1X3FgYGlfLS0tMTRzc2FjYjUyXy8yMy5hMDUyMDY6Yw%3D%3D&vl=&vr=",
+      videoUrl: "../../public/teste.jpeg",
       likes: 650,
       comments: 10,
       replies: 50,
