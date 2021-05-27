@@ -31,7 +31,7 @@ export async function getServerSideProps(context) {
       tags: [{ title: "#youtube" }, { title: "//#endregionclone" }],
       songName: "WAP (feat. Megan Thee Stallion) - Cardi B",
       videoUrl:
-        "https://v16-web-newkey.tiktokcdn.com/19121f05fbed4c4e63a61c79aab3fcea/5f6cf21d/video/tos/alisg/tos-alisg-pve-0037c001/e6da6a1fbf1f4d798e3498ea13aca32b/?a=1988&br=2314&bt=1157&cr=0&cs=0&dr=0&ds=3&er=&l=2020092413230501018907422533020866&lr=tiktok_m&mime_type=video_mp4&qs=0&rc=M2Zpdjx1andydzMzOzczM0ApZ2dkaTwzNWQ3NzhmaTw1N2dkaGVhY2k0XmlfLS0zMTRzcy0xYGJfNDBfYzVfYy5eMzA6Yw%3D%3D&vl=&vr=",
+        "https://www.tiktok.com/@poppy/video/6958526321890741510?lang=pt-BR&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6966668047986066949",
       likes: 650,
       comments: 10,
       replies: 50,
