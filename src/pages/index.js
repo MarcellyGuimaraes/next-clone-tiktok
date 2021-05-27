@@ -22,7 +22,7 @@ export async function getServerSideProps(context) {
       id: 1,
       author: {
         id: 1,
-        avatar: "tiktok4.jpeg",
+        avatar: "tiktok3.jpeg",
         name: "Marcelly Guimarães",
         username: "kurt.cobain",
       },
@@ -38,7 +38,7 @@ export async function getServerSideProps(context) {
       id: 2,
       author: {
         id: 1,
-        avatar: "tiktok5.jpg",
+        avatar: "tiktok4.jpg",
         name: "Marcelly Guimarães",
         username: "ghostemane",
       },
@@ -54,7 +54,7 @@ export async function getServerSideProps(context) {
       id: 3,
       author: {
         id: 1,
-        avatar: "tiktok6.jpeg",
+        avatar: "tiktok5.jpeg",
         name: "Marcelly Guimarães",
         username: "billie.eilish",
       },
