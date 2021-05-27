@@ -25,12 +25,11 @@ function PostCard({ post }) {
   const [running, setRunning] = useState(false);
 
   const toggleAction = () => {
-    if (videoRef?.current != null) {
-      if (!running) videoRef.current.play();
-      else videoRef.current.pause();
-
-      setRunning(!running);
-    }
+    // if (videoRef?.current != null) {
+    //   if (!running) videoRef.current.play();
+    //   else videoRef.current.pause();
+    //   setRunning(!running);
+    // }
   };
 
   return (
