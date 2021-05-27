@@ -111,7 +111,7 @@ export const VideoContainer = styled.div`
     }
   }
 `;
-export const Video = styled.video`
+export const Video = styled.img`
   max-width: 100%;
   border-radius: 9px;
 `;
